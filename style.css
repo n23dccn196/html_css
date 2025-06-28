@@ -1,0 +1,14 @@
+body {
+  color: red;
+}
+
+.demo {
+  color: red;
+}
+.demo2 {
+  color: blue;
+}
+
+.demo.demo2 {
+  font-size: 40px;
+}
